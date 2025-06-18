@@ -1,5 +1,6 @@
 # Task-6
 📊 Sales Trend Analysis – Task 6 (Data Analyst Internship)
+
 This repository contains my submission for Task 6: Sales Trend Analysis Using Aggregations, part of a Data Analyst Internship program. The goal is to use SQL to explore and visualize monthly sales performance, revenue patterns, and product-level insights.
 
 📁 Project Structure
